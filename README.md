@@ -1,5 +1,6 @@
-<h2> Hi, I'm Lara Lopez! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Lara López! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
 
+ <img src="https://user-images.githubusercontent.com/98132014/190008006-74062554-245c-4f6f-9fc7-b59017eebc6f.gif" width="1000">
 
 ## :heart: Languages and Tools:
 
