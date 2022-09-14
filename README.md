@@ -1,6 +1,13 @@
 <h2> Hi, I'm Lara López! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50"></h2>
 
  <img src="https://user-images.githubusercontent.com/98132014/190008006-74062554-245c-4f6f-9fc7-b59017eebc6f.gif" width="1000">
+ 
+## 🙋 About me
+ I live in Buenos Aires, Argentina. I'm a proactive, honest and persevering person. I've been studying industrial engineering for 4 years and I will get my degree soon. 
+Because of my curiosity I learned programming and became Full Stack Developer. I hope to do a lot of interesting projects!
+
+I like travelling and I love spending time with my little sister.
+
 
 ## :heart: Languages and Tools:
 
